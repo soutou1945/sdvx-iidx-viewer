@@ -1,0 +1,29 @@
+body{
+  margin:0;
+  background:#f7f8fc;
+  font-family:sans-serif;
+}
+
+.container{
+  max-width:700px;
+  margin:auto;
+  padding:20px;
+}
+
+h1{
+  font-size:28px;
+}
+
+input[type=file]{
+  width:100%;
+  padding:16px;
+  border-radius:12px;
+  background:white;
+}
+
+#result{
+  margin-top:20px;
+  padding:16px;
+  background:white;
+  border-radius:12px;
+}
